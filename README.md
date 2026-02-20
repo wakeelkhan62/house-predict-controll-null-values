@@ -1,0 +1,1 @@
+I have practiced handling null values on  datasets. In  dataset, I tried to apply suitable techniques according to the nature of the data, such as logical replacement, group-based imputation, and statistical methods. If you are available, kindly review my work and provide your feedback.
